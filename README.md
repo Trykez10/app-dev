@@ -1,7 +1,10 @@
 # Likes and Dislikes of my Favorite Movie
 ## Submitted by: **Tristan Tryke Malubay**
 
-# Likes: 
+
+# Movie Title: Interstellar
+
+## Likes: 
 - The story mixes science and emotion really well.
 
 - The visuals of space, planets, and the black hole look stunning.
@@ -14,7 +17,7 @@
 
 - The ending gives hope and meaning after all the struggles.
 
-# Dislikes
+## Dislikes: 
 - The movie is quite long, some scenes feel slow.
 
 - The scientific talk can be confusing for some viewers.
